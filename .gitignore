@@ -1,5 +1,5 @@
 .idea/
 *.iml
-.out/
+out/
 
-.FirstStep/*.txt
+FirstStep/*.txt
