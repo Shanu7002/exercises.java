@@ -1,0 +1,51 @@
+Study Plan – 100 Java Exercises
+
+Phase 1 – Fundamentals and Operators (Exercises 1 to 10)
+Goal: Learn variables, data types, mathematical and logical operations.
+Focus: Basic syntax, operators, type conversion.
+Exercises: 1 to 10
+
+Phase 2 – Control Structures (Exercises 11 to 20)
+Goal: Learn to make decisions (if/else, switch) and repeat tasks (for, while).
+Focus: Conditional logic, loops, counters, and accumulators.
+Exercises: 11 to 20
+
+Phase 3 – Functions and Modularization (Exercises 21 to 30)
+Goal: Break code into functions, understand parameters and return values.
+Focus: Code reuse and clarity in programming.
+Exercises: 21 to 30
+
+Phase 4 – Basic Data Structures (Exercises 31 to 40)
+Goal: Work with lists, sets, and maps.
+Focus: Data storage and manipulation.
+Exercises: 31 to 40
+
+Phase 5 – Input and Output (Exercises 41 to 50)
+Goal: Read user data and display results.
+Focus: Scanner, text and number reading, simple interaction.
+Exercises: 41 to 50
+
+Phase 6 – String Manipulation (Exercises 51 to 60)
+Goal: Learn functions and operations with text.
+Focus: Count letters, transform text, reverse words.
+Exercises: 51 to 60
+
+Phase 7 – Object-Oriented Programming (Exercises 61 to 70)
+Goal: Learn classes, attributes, methods, and encapsulation.
+Focus: Create objects and work with data in an organized way.
+Exercises: 61 to 70
+
+Phase 8 – Inheritance, Polymorphism, and Abstraction (Exercises 71 to 80)
+Goal: Understand inheritance, interfaces, abstract classes, and polymorphism.
+Focus: Create class hierarchies and reuse code.
+Exercises: 71 to 80
+
+Phase 9 – Mixed Exercises (Exercises 81 to 90)
+Goal: Review all previous concepts.
+Focus: Combine data structures, loops, functions, and OOP in complete exercises.
+Exercises: 81 to 90
+
+Phase 10 – Final Projects (Exercises 91 to 100)
+Goal: Create complete mini-applications.
+Focus: Consolidate all learning and prepare for real projects.
+Exercises: 91 to 100
