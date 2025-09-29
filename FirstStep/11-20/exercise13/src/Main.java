@@ -1,10 +1,9 @@
-//12. Ask for a number and say if it is a multiple of 5.
+//13. Print numbers from 1 to 10 using for.
 
 public class Main {
     public static void main(String[] args) {
-        int n = 10;
-        if(n % 5 == 0){
-            System.out.print("The number is multiple of 5");
+        for(int i = 1; i <= 10; i++){
+            System.out.println(i);
         }
     }
 }
